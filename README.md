@@ -26,3 +26,7 @@ Write a Java program which:
 (2) Calculates the customer's overall order total before and after discount.
 
 (3) Displays the input data along with the order total before and after the discount to the console.
+
+Assignment 2
+
+Write a Java program which prompts a user for two numerical values as input, does some calculation on them and then print the result along with meaningful message to the console. Use some interesting formula and not a simple summation.
