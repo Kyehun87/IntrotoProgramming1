@@ -14,3 +14,12 @@ I have visited 20 states
 Submit your program as an attached  .java file and post a screen shot to show that you have been able to successfully run that program. Make sure you submission adheres to the SubmissionRequirements document.
 
 Be sure to create a program different from any of the programs already posted by your classmates or the examples in class materials.
+
+Week 2
+=============================================================================================================
+Assignment 1
+
+Write a Java program which:
+(1) Prompts a user to enter customer id, unit price in this format (e.g. 3.75), quantity (as whole number), product description, and discount in this format (e.g., .10) (use Scanner for input).
+(2) Calculates the customer's overall order total before and after discount.
+(3) Displays the input data along with the order total before and after the discount to the console.
