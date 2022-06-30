@@ -27,13 +27,13 @@ public class Week3Assignment2 {
         exp = keyboard.next();
 
         if(Objects.equals(exp, "+")) {
-            System.out.println(num1 + num2);
+            System.out.println("The total is " + (num1 + num2));
         }else if (Objects.equals(exp, "-")) {
-            System.out.println(num1 - num2);
+            System.out.println("The total is " + (num1 - num2));
         } else if (Objects.equals(exp, "*")) {
-            System.out.println(num1 * num2);
+            System.out.println("The total is " + (num1 * num2));
         }else if (Objects.equals(exp, "/")) {
-            System.out.println(num1 / num2);
+            System.out.println("The total is " + (num1 / num2));
         } else {
             System.out.println("That is not an operation!");
         }
