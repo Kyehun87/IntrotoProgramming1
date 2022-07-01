@@ -30,3 +30,22 @@ Write a Java program which:
 Assignment 2
 
 Write a Java program which prompts a user for two numerical values as input, does some calculation on them and then print the result along with meaningful message to the console. Use some interesting formula and not a simple summation.
+
+Week 3
+=============================================================================================================
+Assignment 1
+
+Write a Java program which prompts a user for input and depending on that input prints a different value to the console - use if-else statement in your program.
+
+Assignment 2
+
+Write a Java program which:
+
+(1) Prompts a user to enter two numbers between 200 and 1000 and a symbol for operation
+such as ‘+’, ‘-‘, ‘*’,and ‘/’ (use Scanner for input).
+
+(2) Code uses nested if statement or switch to perform the operation on the two numbers
+
+(3) If the provided symbol is valid, displays the input data along with the result of the calculation
+to the console. Otherwise displays an error message
+
