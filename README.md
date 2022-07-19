@@ -49,3 +49,31 @@ such as ‘+’, ‘-‘, ‘*’,and ‘/’ (use Scanner for input).
 (3) If the provided symbol is valid, displays the input data along with the result of the calculation
 to the console. Otherwise displays an error message
 
+
+Week 4
+=============================================================================================================
+Write a Java program which contains a while loop. Prompt user for input which determines the number of times the loop repeats. 
+The program should display some output for each iteration but it should be more than just an increment.
+
+Assignment 1
+
+Write a Java program to calculate a gamer's total XP score with a bonus per level. The program should:
+(1) Prompt and read user’s input for the gamer's name, Level 1 XP (L1), Level 2 XP (L2), Level 3 XP (L3), and Engagement score (ES). User Scanner to read input.
+(2) Each XP score input should be in whole numbers between 10-100 and in increments of 5. The total XP score with bonuses should be calculated as follows:
+L1+L1*0.20+L2+L2*0.30+L3+L3*0.50+ES+ES*0.60
+(3) Output the gamer's information and the total calculated XP score (including bonuses).
+(4) Prompt the user as to whether they want to calculate total XP for another gamer and repeat the input/output processing
+(5) Allow user to exit the program without inputting gamer's data
+
+
+Week 5
+=============================================================================================================
+Write a Java program that contains a for-loop loop. Prompt user for input which determines the number of times the loop repeats. 
+The program should display some output for each iteration but it should be more than just an increment.
+
+
+Assignment 1
+Write Java code to prompt the user for the number of rows (e.g. 7) and output the triangle pattern below using nested for-loops.
+
+Assignment 2
+Write Java code to prompt the user for the starting number to print (e.g. 5) and output rectangular pattern below: Use nested for-loops.
