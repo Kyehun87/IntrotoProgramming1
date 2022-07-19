@@ -58,11 +58,16 @@ The program should display some output for each iteration but it should be more 
 Assignment 1
 
 Write a Java program to calculate a gamer's total XP score with a bonus per level. The program should:
+
 (1) Prompt and read user’s input for the gamer's name, Level 1 XP (L1), Level 2 XP (L2), Level 3 XP (L3), and Engagement score (ES). User Scanner to read input.
+
 (2) Each XP score input should be in whole numbers between 10-100 and in increments of 5. The total XP score with bonuses should be calculated as follows:
 L1+L1*0.20+L2+L2*0.30+L3+L3*0.50+ES+ES*0.60
+
 (3) Output the gamer's information and the total calculated XP score (including bonuses).
+
 (4) Prompt the user as to whether they want to calculate total XP for another gamer and repeat the input/output processing
+
 (5) Allow user to exit the program without inputting gamer's data
 
 
